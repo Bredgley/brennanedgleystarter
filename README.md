@@ -1,4 +1,4 @@
-# USU CS4610 Nest Starter App
+# brennanedgleystarter
 
 ## Description
 A starter app with Postgres, NestJS, and React
